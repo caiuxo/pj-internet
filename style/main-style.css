@@ -1,0 +1,15 @@
+body {
+ 	background-color: #fff;
+}
+
+#jssor_1 {
+	 position:relative;
+	 margin:0 auto;
+	 top:0px;
+	 left:0px;
+	 width:980px;
+	 height:400px;
+	 overflow:hidden;
+	 visibility:hidden;
+	 background:url('img/main_bg.jpg') 50% 50% no-repeat;
+}
